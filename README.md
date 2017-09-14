@@ -1,0 +1,1 @@
+This is a basic JS drum kit based on the Wes Bos #Javascript30 course
